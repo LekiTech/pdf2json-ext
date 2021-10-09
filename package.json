@@ -1,0 +1,17 @@
+{
+  "name": "p2j",
+  "version": "1.0.0",
+  "description": "Custom cli for pdf2json package",
+  "main": "bin/index.js",
+  "bin": {
+    "p2j": "./bin/index.js"
+  },
+  "scripts": {
+    "p2j": "node index.js Словарь_лезгино-русский.pdf --sample 1 2"
+  },
+  "author": "KT",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "1.2.5"
+  }
+}
