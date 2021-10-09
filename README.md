@@ -1,5 +1,5 @@
 # pdf2json-ext
-This cli is created for quick parsing pdf into json with sampling option using [pdf2json](github.com/modesty/pdf2json) package
+This cli is created for quick parsing pdf into json with sampling option using [pdf2json](https://github.com/modesty/pdf2json) package
 
 ## Requirements
 Installed Node.js, if it is missing download and install from https://nodejs.org/en/
